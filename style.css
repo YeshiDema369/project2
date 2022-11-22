@@ -1,0 +1,39 @@
+/* CSS */
+/* Importing the Google Font */
+@import url("https://fonts.googleapis.com/css?family=Ubuntu|Muli");
+
+/* Styling for the entire page */
+body {
+  /*     background-color: #1b3764; */
+  background-image: url("https://media-exp1.licdn.com/dms/image/C4D12AQGhtRv9uJCVFg/article-cover_image-shrink_600_2000/0/1649886842378?e=2147483647&v=beta&t=EIFuUr5kzgZLr_knCzAHqPCwf5EwQc6ClYmEQn6XXN4");
+  text-align: center;
+}
+/* Styling for the title */
+h1 {
+  font-family: "Ubuntu";
+  font-size: 60px;
+  color: #35d0ba;
+  /*     background-color:indianred; */
+}
+/* Styling for the instructions */
+p {
+  font-family: "Muli";
+  font-size: 36px;
+  color: #ffffff;
+  background-color: darkturquoise;
+}
+
+/* Styling for the button */
+button {
+  font-family: "Ubuntu";
+  font-size: 40px;
+  width: 180px;
+  background-color: blueviolet;
+  color: #ffffff;
+  border: none;
+  border-radius: 10px;
+  padding: 10px;
+  display: block;
+  margin: 30px auto;
+  box-shadow: 0px 6px 0px 2px pink;
+}
